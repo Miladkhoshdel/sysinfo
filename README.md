@@ -1,7 +1,7 @@
 ## sysinfo
 Simple NodeJS Script to get Server Information.
 
-##Usage
+## Usage
 **Windows**
 > C:\Users\Tester\WebstormProjects\sysinfo>node app.js
 > 
