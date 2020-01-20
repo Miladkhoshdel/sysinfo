@@ -3,7 +3,7 @@ Simple NodeJS Script to get Server Information.
 
 ## Usage
 **Windows**
-> C:\Users\Tester\WebstormProjects\sysinfo>node app.js
+> C:\Users>node app.js
 > 
 > Hostname: DESKTOP-2LQVGNE\
 OS version: Windows_NT 10.0.17763 x64\
