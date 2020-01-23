@@ -25,3 +25,8 @@ Free Memory: 13.09 GB\
 &nbsp;[-] Name: Loopback Pseudo-Interface 1\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IP0: ::1\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IP1: 127.0.0.1\
+&nbsp;[+] GPU List:\
+&nbsp;&nbsp;[-] AMD Radeon (TM) R9 380 Series\
+&nbsp;&nbsp;&nbsp;&nbsp;Ram: 4.00 GB\
+&nbsp;&nbsp;&nbsp;&nbsp;Driver Version: 26.20.12028.2\
+&nbsp;&nbsp;&nbsp;&nbsp;Device ID: VideoController1

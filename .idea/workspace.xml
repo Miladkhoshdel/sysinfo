@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebabe0b9-a2aa-400a-a8c7-712910e3f12a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/pegjs.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/pegjs.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/lib/windowsParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/lib/windowsParser.source.pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gpu-info/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/bin/pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/examples/arithmetics.pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/examples/css.pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/examples/javascript.pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/examples/json.pegjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/asts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/opcodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/generate-js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/remove-proxy-rules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-duplicate-labels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-duplicate-rules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-infinite-recursion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-infinite-repetition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-undefined-rules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/visitor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/grammar-error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/peg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/utils/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/utils/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/lib/utils/objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/pegjs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579462104713</updated>
       <workItem from="1579462108150" duration="4214000" />
-      <workItem from="1579539092555" duration="947000" />
+      <workItem from="1579539092555" duration="1960000" />
+      <workItem from="1579810168609" duration="289000" />
     </task>
     <servers />
   </component>

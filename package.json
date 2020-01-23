@@ -10,6 +10,7 @@
   "author": "Milad Khoshdel",
   "license": "ISC",
   "dependencies": {
+    "gpu-info": "0.0.1",
     "systeminformation": "^4.19.1"
   }
 }
