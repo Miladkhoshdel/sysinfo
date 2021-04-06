@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "gpu-info": "0.0.1",
-    "systeminformation": "^4.19.1"
+    "systeminformation": "^5.6.4"
   }
 }
